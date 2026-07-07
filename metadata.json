@@ -1,0 +1,6 @@
+{
+  "name": "Sakeenah",
+  "description": "An AI-driven mental support platform with real-time routing, faith-based integration, secure double-lock provider vaults, and advanced acoustic & semantic clinical summaries.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
